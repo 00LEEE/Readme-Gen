@@ -56,7 +56,11 @@ This project is licensed under the ${license} license. See the [LICENSE](${rende
 function generateMarkdown(data) {
   return `# ${data.title}
 
-`;
+${renderLicenseBadge(data.license)}
+
+${data.description}
+
+${renderLicenseSection(data.license)}`;
 }
 
 module.exports = generateMarkdown;
