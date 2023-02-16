@@ -1,6 +1,8 @@
 // TODO: Include packages needed for this application
 // npm install inquirer
-// TODO: Create an array of questions for user input
+// TODO: Create an array of questions for user input\
+const generateMarkdown = require('./utils/generateMarkdown');
+
 const questions = [
     {
       type: 'input',
