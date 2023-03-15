@@ -13,7 +13,7 @@ To use Readme-Gen, simply navigate to the project directory and run the followin
 
 This will start the application and prompt you to answer a series of questions about your project. Once you've answered all the questions, the application will generate a complete README file based on your responses.
 
-# Usage Demo Video: https://drive.google.com/file/d/1dmqn1xqMUiTvH-U867mQsO0k1X3SvuLa/view
+- Usage Demo Video: https://drive.google.com/file/d/1dmqn1xqMUiTvH-U867mQsO0k1X3SvuLa/view
 
 # License 
 This project is licensed under the MIT License.
