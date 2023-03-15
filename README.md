@@ -22,3 +22,5 @@ To run the tests for Readme-Gen, run the following command:
 `npm test`
 
 This will run a series of tests to ensure that the application is functioning as expected.
+
+Usage Video Demo: https://drive.google.com/file/d/1dmqn1xqMUiTvH-U867mQsO0k1X3SvuLa/view
